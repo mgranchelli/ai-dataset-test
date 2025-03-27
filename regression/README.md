@@ -3,7 +3,7 @@
 This repository contains three datasets useful for various machine learning and data analysis tasks. Each dataset focuses on different domains, including salary prediction, student performance and health insurance.
 
 ## Requirements
-[Download requirements](https://raw.githubusercontent.com/mgranchelli/ai-dataset-test/main/regression/requirements.txt)
+[Download requirements](requirements.txt)
 
 ## 1. Salary Dataset
 
@@ -15,7 +15,7 @@ The Salary dataset is used for salary prediction based on years of experience. I
 - **Salary**: Corresponding salary amount.
 
 ### Dataset Source
-[Salary Dataset](https://raw.githubusercontent.com/mgranchelli/ai-dataset-test/main/regression/Salary_dataset.csv)
+[Salary Dataset](Salary_dataset.csv)
 
 ---
 
@@ -36,7 +36,7 @@ This dataset examines the factors influencing academic performance in students. 
 This dataset is synthetic and created for illustrative purposes. The relationships between variables and performance may not reflect real-world scenarios.
 
 ### Dataset Source
-[Student Performance Dataset](https://raw.githubusercontent.com/mgranchelli/ai-dataset-test/main/regression/Student_Performace.csv)
+[Student Performance Dataset](Student_Performace.csv)
 
 ---
 
@@ -55,4 +55,4 @@ The Insurance dataset provides information about individuals and their insurance
 - **charges**: Individual medical costs billed by health insurance.
 
 ### Dataset Source
-[Insurance Dataset](https://raw.githubusercontent.com/mgranchelli/ai-dataset-test/main/regression/insurance.csv)
+[Insurance Dataset](insurance.csv)
