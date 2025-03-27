@@ -36,7 +36,7 @@ This dataset examines the factors influencing academic performance in students. 
 This dataset is synthetic and created for illustrative purposes. The relationships between variables and performance may not reflect real-world scenarios.
 
 ### Dataset Source
-[Student Performance Dataset](Student_Performace.csv)
+[Student Performance Dataset](Student_Performance.csv)
 
 ---
 
