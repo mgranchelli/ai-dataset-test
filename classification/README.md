@@ -55,6 +55,14 @@ Classify articles as fake or real.
 - **subject**: news category or topic;
 - **date**: publication date;
 
+### Dataset Source
+Copy and paste on Google Colab
+```bash
+import gdown
+url = "https://drive.google.com/file/d/1kcODu96_hMF7GRNAJDfYPhGsSy-BGjtg/view?usp=drive_link"
+gdown.download(url=url, fuzzy=True)
+```
+
 ## 4. MRI Brain Tumor Dataset
 A medical imaging dataset containing brain MRI scans categorized by tumor type. The images are organized into separate folders for training and testing.
 
@@ -69,3 +77,11 @@ Each of these folders contains four subfolders, corresponding to tumor classes s
 - no_tumor.
 
 The images are in standard formats (JPEG)
+
+### Dataset Source
+Copy and paste on Google Colab
+```bash
+import gdown
+url = "https://drive.google.com/file/d/131473heJER2iO3D5pO0XjIquRegEh3Ib/view?usp=drive_link"
+gdown.download(url=url, fuzzy=True)
+```
